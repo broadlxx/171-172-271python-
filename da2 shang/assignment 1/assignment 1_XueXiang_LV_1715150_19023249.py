@@ -1,0 +1,30 @@
+print("Name:XueXiang Lv  Student ID:175150  Massey ID:19023249")
+        #Name:XueXiang Lv  Student ID:175150  Massey ID:19023249
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
